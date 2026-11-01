@@ -11,4 +11,4 @@
   },
   "include": ["src", "exercicios"],
   "exclude": ["node_modules"]
-}
+} 

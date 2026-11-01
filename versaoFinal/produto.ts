@@ -40,5 +40,4 @@ return this.valor * 0.95
 
 
 
-
 }
